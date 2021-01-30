@@ -1,14 +1,21 @@
 #=====================================
 # Hosts contributed by NegativeHand
 
+#porn
 0.0.0.0 bestandfree.com
 0.0.0.0 www.bestandfree.com
+0.0.0.0 bestandfree.cm
+#woke garbage
 0.0.0.0 rottentomatoes.com
 0.0.0.0 www.rottentomatoes.com
 0.0.0.0 merriam-webster.com
 0.0.0.0 www.merriam-webster.com
 0.0.0.0 buzzfeed.com
 0.0.0.0 www.buzzfeed.com
+#vox.com
 0.0.0.0 vox.com
 0.0.0.0 www.vox.com
-0.0.0.0 bestandfree.cm
+0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 cdn.vox-cdn.com
+0.0.0.0 phonograph2.voxmedia.com
+0.0.0.0 auth.voxmedia.com
