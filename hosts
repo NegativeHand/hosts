@@ -9,8 +9,8 @@
 #woke garbage
 0.0.0.0 rottentomatoes.com
 0.0.0.0 www.rottentomatoes.com
-0.0.0.0 merriam-webster.com
-0.0.0.0 www.merriam-webster.com
+#0.0.0.0 merriam-webster.com
+#0.0.0.0 www.merriam-webster.com
 0.0.0.0 buzzfeed.com
 0.0.0.0 www.buzzfeed.com
 0.0.0.0 espn.com
